@@ -242,16 +242,16 @@ pl:
     account_updated: Konto Zauktalizowane
     action: Akcja
     actions:
-      cancel: 
-      continue: 
-      create: 
-      destroy: 
-      edit: 
-      list: 
+      cancel: Anuluj
+      continue: Kontynuuj
+      create: Utwórz
+      destroy: Usuń
+      edit: Edytuj
+      list: Lista
       listing: 
-      new: 
-      save: 
-      update: 
+      new: Nowy
+      save: Zapisz
+      update: Aktualizuj
     activate: Aktywuj
     active: Aktywny
     add: Dodaj
@@ -267,7 +267,7 @@ pl:
     add_state: Dodaj Status
     add_stock: 
     add_stock_management: 
-    add_to_cart: 
+    add_to_cart: Dodaj do koszyka
     add_variant: 
     additional_item: 
     address1: 
@@ -286,20 +286,21 @@ pl:
           delivery_success: 
           error: 
       tab:
-        configuration: 
-        orders: 
-        overview: 
-        products: 
-        promotions: 
-        reports: 
-        users: 
-    administration: 
+        configuration: Konfiguracja
+        orders: Zamówienia
+        overview: podsumowanie
+        products: Produkty
+        promotions: Promocje
+        reports: Raporty
+        users: Użytkownicy
+    administration: Panel Administracyjny
+    admin_login: Admin Login
     agree_to_privacy_policy: 
     agree_to_terms_of_service: 
     all: 
     all_adjustments_closed: 
     all_adjustments_opened: 
-    all_departments: 
+    all_departments: Wszystkie działy
     allow_ssl_in_development_and_test: 
     allow_ssl_in_production: 
     allow_ssl_in_staging: 
@@ -315,8 +316,8 @@ pl:
     analytics_desc_list_4: 
     analytics_trackers: 
     and: 
-    are_you_sure: 
-    are_you_sure_delete: 
+    are_you_sure: Czy jesteś pewien?
+    are_you_sure_delete: Czy na pewno chcesz usunąć?
     associated_adjustment_closed: 
     attachment_default_style: 
     attachment_default_url: 
@@ -344,7 +345,7 @@ pl:
     back_to_stock_locations_list: 
     back_to_stock_movements_list: 
     back_to_stock_transfers_list: 
-    back_to_store: 
+    back_to_store: Wróć do sklepu
     back_to_tax_categories_list: 
     back_to_taxonomies_list: 
     back_to_trackers_list: 
@@ -368,9 +369,9 @@ pl:
     card_code: 
     card_number: 
     card_type_is: 
-    cart: 
-    categories: 
-    category: 
+    cart: Koszyk
+    categories: Kategorie
+    category: Kategoria
     check_for_spree_alerts: 
     checkout: 
     choose_a_customer: 
@@ -444,24 +445,24 @@ pl:
       first_day: 
       format: 
       js_format: 
-    date_range: 
-    default: 
+    date_range: Zakres
+    default: Domyślna
     default_meta_description: 
     default_meta_keywords: 
     default_seo_title: 
     default_tax: 
     default_tax_zone: 
-    delete: 
+    delete: Usuń
     delivery: 
     depth: 
-    description: 
+    description: Opis
     destination: 
     destroy: 
     discount_amount: 
     dismiss_banner: 
     display: 
     display_currency: 
-    edit: 
+    edit: Edytuj
     editing_option_type: 
     editing_payment_method: 
     editing_product: 
@@ -478,7 +479,7 @@ pl:
     editing_tracker: 
     editing_user: 
     editing_zone: 
-    email: 
+    email: email
     empty: Pusty 
     empty_cart: 
     enable_mail_delivery: 
@@ -515,13 +516,13 @@ pl:
     filter_results: 
     finalize: 
     first_item: 
-    first_name: 
-    first_name_begins_with: 
+    first_name: Imię
+    first_name_begins_with: Pierwsze litery imienia
     flat_percent: 
     flat_rate_per_item: 
     flat_rate_per_order: 
     flexible_rate: 
-    forgot_password: 
+    forgot_password: przypomnij hasło
     free_shipping: 
     front_end: 
     gateway: 
@@ -536,11 +537,11 @@ pl:
     has_no_shipped_units: 
     height: 
     hide_cents: 
-    home: 
+    home: Główna
     i18n:
       available_locales: 
       fields: 
-      language: 
+      language: Język
       localization_settings: 
       only_complete: 
       only_incomplete: 
@@ -581,28 +582,28 @@ pl:
     jirafe: 
     landing_page_rule:
       path: 
-    last_name: 
-    last_name_begins_with: 
+    last_name: Nazwisko
+    last_name_begins_with: Pierwsze litery nazwiska
     learn_more: 
     list: 
     listing_countries: 
-    listing_orders: 
-    listing_products: 
-    listing_reports: 
+    listing_orders: Zamówienia
+    listing_products: Produkty
+    listing_reports: Raporty
     listing_tax_categories: 
-    listing_users: 
-    loading: 
+    listing_users: Użytkownicy
+    loading: Wczytywanie
     locale_changed: 
     location: 
     lock: 
-    logged_in_as: 
+    logged_in_as: Zalogowany jako
     logged_in_succesfully: 
     logged_out: 
-    login: 
+    login: Zaloguj
     login_as_existing: 
     login_failed: 
-    login_name: 
-    logout: 
+    login_name: Login
+    logout: Wyloguj
     look_for_similar_items: 
     maestro_or_solo_cards: 
     mail_method_settings: 
@@ -620,16 +621,16 @@ pl:
     month: 
     more: 
     move_stock_between_locations: 
-    my_account: 
-    my_orders: 
-    name: 
+    my_account: Moje konto
+    my_orders: Moje zakupy
+    name: Nazwa
     name_or_sku: 
     new: 
     new_adjustment: 
     new_customer: 
     new_image: 
     new_option_type: 
-    new_order: 
+    new_order: Nowe zamówienie
     new_order_completed: 
     new_payment: 
     new_payment_method: 
@@ -654,11 +655,11 @@ pl:
     new_zone: 
     next: 
     no_actions_added: 
-    no_orders_found: 
+    no_orders_found: Brak zamówień
     no_payment_methods_found: 
     no_pending_payments: 
-    no_products_found: 
-    no_promotions_found: 
+    no_products_found: Nie znaleziono produktów
+    no_promotions_found: Nie znaleziono promocji
     no_resource_found: 
     no_results: 
     no_rules_added: 
@@ -689,7 +690,7 @@ pl:
     option_values: 
     optional: 
     options: 
-    or: 
+    or: lub
     or_over_price: 
     order: 
     order_adjustments: 
@@ -713,7 +714,7 @@ pl:
         thanks: 
         total: 
     order_not_found: 
-    order_number: 
+    order_number: Numer zamówienia
     order_populator:
       out_of_stock: 
       please_enter_reasonable_quantity: 
@@ -733,7 +734,7 @@ pl:
     order_sure_want_to: 
     order_total: 
     order_updated: 
-    orders: 
+    orders: Zamówienia
     out_of_stock: 
     overview: 
     package_from: 
@@ -741,8 +742,8 @@ pl:
       next_page: 
       previous_page: 
       truncate: 
-    password: 
-    paste: 
+    password: Hasło
+    paste: Wklej
     path: 
     pay: 
     payment: 
@@ -773,7 +774,7 @@ pl:
     place_order: 
     please_define_payment_methods: 
     populate_get_error: 
-    powered_by: 
+    powered_by: Dostarczone przez
     presentation: 
     previous: 
     price: 
@@ -782,7 +783,7 @@ pl:
     process: 
     product: 
     product_details: 
-    product_has_no_description: 
+    product_has_no_description: Brak opisu
     product_not_available_in_this_currency: 
     product_properties: 
     product_rule:
@@ -793,8 +794,8 @@ pl:
       product_source:
         group: 
         manual: 
-    products: 
-    promotion: 
+    products: Produkty
+    promotion: Promocje
     promotion_action: 
     promotion_action_types:
       create_adjustment:
@@ -851,10 +852,10 @@ pl:
     refund: 
     register: 
     registration: 
-    remember_me: 
+    remember_me: Zapamiętaj mnie
     remove: 
     rename: 
-    reports: 
+    reports: Raporty
     resend: 
     reset_password: 
     response_code: 
@@ -936,7 +937,7 @@ pl:
     show: 
     show_active: 
     show_deleted: 
-    show_only_complete_orders: 
+    show_only_complete_orders: Pokaż tylko zakończone zamówienia
     show_rate_in_label: 
     site_name: 
     site_url: 
@@ -956,8 +957,8 @@ pl:
     spree/order:
       coupon_code: 
     spree_gateway_error_flash_for_checkout: 
-    start: 
-    start_date: 
+    start: Od
+    start_date: Od
     state: 
     state_based: 
     states: 
@@ -973,7 +974,7 @@ pl:
     stock_successfully_transferred: 
     stock_transfer: 
     stock_transfers: 
-    stop: 
+    stop: Do
     store: 
     street_address: 
     street_address_2: 
